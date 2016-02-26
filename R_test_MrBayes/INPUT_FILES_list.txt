@@ -1,0 +1,3 @@
+./test_data/Cluster10.nex.t_extract_transformat.t
+./test_data/Cluster3.nex.t_extract_transformat.t
+./test_data/Cluster6.nex.t_extract_transformat.t
